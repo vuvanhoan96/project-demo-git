@@ -8,5 +8,11 @@ console.log('Hello world!!')
 
     Đó là commit và push lên remote đã tạo trước đó nhé
 
-    
+    push lên remote khác
+
+    ok nhé
+
+
+    Tách branch
+
 */ 
