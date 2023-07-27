@@ -15,4 +15,8 @@ console.log('Hello world!!')
 
     Tách branch
 
+    ok 
+
+    merge branch
+
 */ 
